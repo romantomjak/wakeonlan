@@ -1,4 +1,4 @@
-# wake-on-lan
+# wakeonlan
 
 Wake-on-LAN ("WOL") is an Ethernet computer networking standard that allows a computer to be turned on or awakened by a network message. It is implemented using a specially designed Ethernet frame called a magic packet, which is sent to all computers in a network, among them the computer to be awakened.
 
@@ -7,7 +7,7 @@ The magic packet is a broadcast frame containing anywhere within its payload 6 b
 ## Installation
 
 ```sh
-go get -u github.com/romantomjak/wake-on-lan
+go get -u github.com/romantomjak/wakeonlan
 ```
 
 ## Usage

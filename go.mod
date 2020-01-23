@@ -1,3 +1,3 @@
-module github.com/romantomjak/wake-on-lan
+module github.com/romantomjak/wakeonlan
 
 go 1.13
