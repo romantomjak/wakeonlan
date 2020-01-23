@@ -7,7 +7,7 @@ The magic packet is a broadcast frame containing anywhere within its payload 6 b
 ## Installation
 
 ```sh
-go get -u github.com/romantomjak/wakeonlan
+go get -u github.com/romantomjak/wake-on-lan
 ```
 
 ## Usage
