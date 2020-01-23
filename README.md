@@ -12,7 +12,7 @@ go get -u github.com/romantomjak/wakeonlan
 
 ## Usage
 
-```sh
+```
 Usage: wakeonlan [options] macaddr
 
   Sends a specially designed Ethernet frame that "awakens" a networked computer.
